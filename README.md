@@ -1,2 +1,2 @@
 # fraud-detection
-Fraud detection with the only banking datasets available online
+Fraud detection on the only banking dataset available online
